@@ -27,5 +27,5 @@ Online Lecture
 [For En](https://www.codeschool.com/courses/try-django)
 
 Template Tag
-[Kor](http://greenfishblog.tistory.com/124)
+[Kor](http://greenfishblog.tistory.com/124) / 
 [Doc](https://django-doc-test-kor.readthedocs.io/en/old_master/topics/templates.html)
