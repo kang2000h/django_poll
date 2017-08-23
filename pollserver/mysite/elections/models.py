@@ -13,3 +13,9 @@ class Candidate(models.Model): # inherited from models.Model
 class Poll(models.Model):
     start_date = models.DateTimeField()
     end_date = models.DateTimeField()
+    area = models.CharField(max_length=15)
+
+class Choice(models.Model):
+    poll = models.ForeignKey(Poll)
+    candidate = models.ForeignKey(Candidate)
+    votes = models.IntegerField(default=0)
