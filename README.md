@@ -1,7 +1,7 @@
 # django_poll
 This repository is created to study code while participating in https://programmers.co.kr/ first
 
-## Installation & Test
+## Installation & Test for django
 
 `
 pip install django 
