@@ -1,5 +1,5 @@
 # django_poll
-This repository is created to study code while participating in https://programmers.co.kr/ first
+This repository is created to study django code while participating in https://programmers.co.kr/ first
 
 ## Installation & Test for django
 
